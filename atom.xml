@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hnnocent.github.io/"/>
-  <updated>2020-02-04T16:44:00.756Z</updated>
+  <updated>2020-02-06T06:36:09.480Z</updated>
   <id>http://hnnocent.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bonic</title>
+    <link href="http://hnnocent.github.io/2020/02/06/bonic/"/>
+    <id>http://hnnocent.github.io/2020/02/06/bonic/</id>
+    <published>2020-02-06T05:28:43.000Z</published>
+    <updated>2020-02-06T06:36:09.480Z</updated>
+    
+    <content type="html"><![CDATA[<p>BONIC————改变世界的下一个人就是你</p><p>是的，你没看错。今天的文章，目的就是带你改变世界！</p><p>BNOIC使用指南</p><p>废话少说，先上酷图</p><blockquote><p>计算时的屏幕保护</p></blockquote><p><img src="http://ww1.sinaimg.cn/large/007Wf2aMgy1gbfz00zygqg305k032gtv.gif" alt=""></p><blockquote><p>全球分布式计算数据汇总</p></blockquote><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omxa8ws4g305k035h0a.gif" alt=""></p><blockquote><p>我的计算证书</p></blockquote><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omxsvh0vj30vi0mngoc.jpg" alt=""></p><blockquote><p>油管上面的一段酷酷的视频</p></blockquote><iframe height=400 width=510 src='http://player.youku.com/embed/XNDUzNDc2MDczNg==' frameborder=0 'allowfullscreen'></iframe><h1 id="分布式计算介绍"><a href="#分布式计算介绍" class="headerlink" title="分布式计算介绍"></a>分布式计算介绍</h1><h5 id="什么是分布式计算"><a href="#什么是分布式计算" class="headerlink" title="什么是分布式计算"></a>什么是分布式计算</h5><blockquote><p>分布式计算是一门计算机科学，主要研究分布式系统。一个分布式系统包括若干通过网络互联的计算机。这些计算机互相配合以完成一个共同的目标（我们将这个共同的目标称为“项目”）。具体的过程是：将需要进行大量计算的项目数据分割成小块，由多台计算机分别计算，再上传运算结果后统一合并得出数据结论。在分布式系统上运行的计算机程序称为分布式计算程序；分布式编程就是编写上述程序的过程。</p></blockquote><h5 id="分布式计算的工作方式"><a href="#分布式计算的工作方式" class="headerlink" title="分布式计算的工作方式"></a>分布式计算的工作方式</h5><blockquote><p>项目方把大的计算任务分割成小块（任务单元），通过互联网分发给志愿者进行计算，志愿者计算完成后再通过网络把各自的计算结果返回到项目方的服务器。</p><p>这也是我们志愿者存在的意义</p></blockquote><h1 id="安装BONIC"><a href="#安装BONIC" class="headerlink" title="安装BONIC"></a>安装BONIC</h1><h5 id="什么是BONIC"><a href="#什么是BONIC" class="headerlink" title="什么是BONIC"></a>什么是BONIC</h5><blockquote><p><a href="https://www.equn.com/wiki/BOINC" target="_blank" rel="noopener">BOINC</a> 是一个计算平台，对我们志愿者来说，它提供了一个统一的客户端程序。简单来说，BONIC帮助我们参与和管理我们想要加入的志愿项目。</p></blockquote><h6 id="下载BONIC客户端"><a href="#下载BONIC客户端" class="headerlink" title="下载BONIC客户端"></a>下载BONIC客户端</h6><blockquote><p>在浏览器中打开：<a href="http://boinc.berkeley.edu/download.php" target="_blank" rel="noopener">http://boinc.berkeley.edu/download.php</a> 或者<a href="http://www.equn.com/wiki/程序下载" target="_blank" rel="noopener">http://www.equn.com/wiki/程序下载</a> （选择正确操作系统//肯定是Windows啦）</p><p>我的是这个样子的</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omycexw7j30et0mwjzz.jpg" alt=""></p><p>但是你们就不一样了</p><p>在没建项目的时候，是这个样子的</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omyi4sb2j30et0mw46j.jpg" alt=""></p></blockquote><h6 id="建立账户"><a href="#建立账户" class="headerlink" title="建立账户"></a>建立账户</h6><blockquote><p>直接点击添加项目</p><p>就会弹出一个注册窗口</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omyncxjbj30kt0d9jtd.jpg" alt=""></p><p>像这样，我们点击左边的&lt;我是新用户&gt;</p><p>注册成功后我们就可以挑选我们想要加入的项目了</p></blockquote><h6 id="项目开始"><a href="#项目开始" class="headerlink" title="项目开始"></a>项目开始</h6><blockquote><p>项目目录</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omyr9w8zj30lt0g30tr.jpg" alt=""></p><p>选一个，骚等一会</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omyvcfs3j30lt0g3dg8.jpg" alt=""></p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omz181xsj30lt0g3glu.jpg" alt=""></p><p>然后我们就可以去选择我们的项目参数和队伍了</p></blockquote><h5 id="加入队伍"><a href="#加入队伍" class="headerlink" title="加入队伍"></a>加入队伍</h5><blockquote><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omz5o0esj30v809374g.jpg" alt=""></p><p>国家当然是CHINA啦</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omz9adehj30u70lxq5q.jpg" alt=""></p><p>这是队伍的各种信息和资料，我们从这里挑选我们希望加入的队伍</p><p>点击队伍名称</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omzf5e8nj30uk0poq53.jpg" alt=""></p><p>当然是选择TEAM CHINA 啦</p><p>点击&lt;加入该团队&gt;</p><p><img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omzl0b9aj31hc0rh41k.jpg" alt=""></p><p>当看到这个界面就表示，你一已经加入成功了</p></blockquote><p>然后呢，然后就在寝室坐等着我的电脑为世界科学的进步做出贡献咯。</p><p>说不定第一个千万位的梅森素数就是我的电脑发现的嘞。</p><p>十万美金，想想就激动啊。</p><p>就是为了科(shi)学(wan)的(yuan)发(mei)展(jin),我也要加入分布式计算啊。</p><hr><p>大家可能会担心，这样的计算会对自己的电脑带来什么样的负担呢？会不会打游戏打着打着就变卡了呢？其实我们只要良好的配置自己的参数设置，这个计算对我们计算机影响是很小的。<img src="http://ww1.sinaimg.cn/large/006Gv8u0ly1g5omzoveyoj30gx0kymyc.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      BONIC————改变世界的下一个人就是你
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://hnnocent.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>《你一生的故事》</title>
