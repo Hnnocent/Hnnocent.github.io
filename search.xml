@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>情人节特辑</title>
+    <url>/2020/02/15/%E6%83%85%E4%BA%BA%E8%8A%82%E7%89%B9%E8%BE%91/</url>
+    <content><![CDATA[<p>刺客五六七就是这个样子啊，每一个角色都很温馨（无论是刺客们：阿财，春风一郎，还是六七和十三，赤牙和江主任，可乐和王子），都很让人感动，真的是十分喜爱这部没有反派的国漫。</p>
+<iframe height=400 width=510 src='http://q5q5asdtl.bkt.clouddn.com/%E8%BF%9E%E5%A4%87%E8%83%8E%E9%83%BD%E4%B8%8D%E6%98%AF_batch.mp4' frameborder=0 'allowfullscreen'></iframe>
+
+]]></content>
+      <tags>
+        <tag>我的小兴趣</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>新冠肺炎</title>
-    <url>/2020/02/10/%E5%9F%BA%E4%BA%8ESIR%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%88%86%E6%9E%90/</url>
+    <url>/2020/02/10/%E5%9F%BA%E4%BA%8ESIR%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%88%86%E6%9E%90(%E5%A4%B1%E8%B4%A5)/</url>
     <content><![CDATA[<h1 id="SIR模型简介"><a href="#SIR模型简介" class="headerlink" title="SIR模型简介"></a>SIR模型简介</h1><p>SIR模型将总人口分为以下三类：易感者(susceptibles)，其数量记为s(t)，表示t 时刻未染病但有可能被该类疾病传染的人数；染病者(infectives)，其数量记为i(t)，表示t时刻已被感染成为病人而且具有传染力的人数；恢复者(recovered)，其数量记为r(t)，表示t时刻已从染病者中移出的人数。设总人口为N(t)，则有N(t)=s(t)+i(t)+r(t)。</p>
 <p><img src="https://i.loli.net/2020/02/10/jrP2EdWmtvyRYXK.png" alt="三者关系"></p>
 <p>SIR模型的建立基于以下三个假设：</p>
@@ -41,7 +52,7 @@
 <p>重症致死率：</p>
 <p><strong>d(t)=σ c(t)​</strong></p>
 <h2 id="模型求解："><a href="#模型求解：" class="headerlink" title="模型求解："></a>模型求解：</h2><ol>
-<li>重症患者在二月6日为指数增长，方程为 <img src="https://i.loli.net/2020/02/10/QTbvqOmVdpxBk8i.png" alt=""></li>
+<li>重症患者在二月6日之前为指数增长，方程为 <img src="https://i.loli.net/2020/02/10/QTbvqOmVdpxBk8i.png" alt=""></li>
 <li>死亡人数<img src="https://i.loli.net/2020/02/10/yhoLvH5OMFWiBtR.png" alt=""></li>
 <li>治愈人数<img src="https://i.loli.net/2020/02/10/PG6AWXjVfus8oUH.png" alt=""></li>
 <li>感染者人数<img src="https://i.loli.net/2020/02/10/4bdYOCKtRMEZITs.png" alt=""></li>
